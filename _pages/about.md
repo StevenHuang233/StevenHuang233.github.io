@@ -11,7 +11,7 @@ redirect_from:
 <a name="about-me"></a>
 ## About Me
 
-I am currently an undergraduate student at **Xi'an Jiaotong University**, majoring in **Computer Science and Technology** (GPA: 3.86/4.3, Top 10%). My research interests currently focus on multimodal large models. 
+I am currently an undergraduate student at **Xi'an Jiaotong University**, majoring in **Computer Science and Technology** (GPA: 3.86/4.3, Top 6%). My research interests currently focus on multimodal large models. 
 
 <div style="background-color: #e8f4f8; border-left: 4px solid #2196F3; padding: 15px; margin: 20px 0;">
   <strong>🎓 Looking for Master/PhD Opportunities (Fall 2027)</strong><br>
@@ -58,8 +58,7 @@ Siqi Ma∗, **Jiajie Huang∗** (co-first author), Bolin Yang, Fan Zhang, Jinlin
 **Sept 2025 - Jan 2026**  
 Research Intern | EPIC Lab, Shanghai Jiao Tong University, supervised by Prof. Linfeng Zhang
 
-- Proposed a self-evolution-based migration method to transform standard video models into Streaming Video Models for real-time continuous video understanding
-- Designed inference format for streaming scenarios and constructed automated data synthesis pipeline to generate high-quality training data (Submitted to **ICML**)
+- Proposed a self-evolution-based migration method to transform standard video models into Streaming Video Models for real-time continuous video understanding.Designed inference format for streaming scenarios and constructed automated data synthesis pipeline to generate high-quality training data (Submitted to **ICML**)
 - Establishing comprehensive benchmark for Long Context Audio to evaluate performance bottlenecks of large models on long sequences (Submitted to **ACL**)
 
 ### Research on Medical Multi-Agent Frameworks (MedLA)
@@ -87,7 +86,7 @@ Algorithm Intern | RWKV (Yuanshi Intelligence)
 *Sept 2023 - Present*
 
 - **GPA:** 3.86/4.3
-- **Ranking:** Top 10%
+- **Ranking:** Top 6%
 - **Relevant Coursework:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Structures and Algorithms
 
 ---
@@ -99,7 +98,7 @@ Algorithm Intern | RWKV (Yuanshi Intelligence)
 
 - **Lu Shidi Scholarship** - 2025
 - **Lu Shidi Scholarship** - 2024
-- 
+
 ---
 
 
