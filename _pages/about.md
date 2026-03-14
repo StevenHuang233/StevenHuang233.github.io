@@ -3,6 +3,7 @@ permalink: /
 title: "Jiajie Huang (黄佳杰)"
 excerpt: "About me"
 author_profile: true
+robots: noindex
 redirect_from:  
   - /about/
   - /about.html
