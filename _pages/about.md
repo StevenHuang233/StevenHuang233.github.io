@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="robots" content="noindex,nofollow">
 <a name="about-me"></a>
 ## About Me
 
